@@ -4,7 +4,7 @@ The simple aggregator was created in a brainstorming session for microservices.
 
 Project additions discussed while brainstorming
 * Data visualization
-  - we could later add a front end (like React) to visualize this data, like creating charts showing post engagement (likes over time, comparrison to previous posts).
+  - we could utilize a front-end framework (ex. React) to visualize this data, like creating charts showing post engagement (likes over time, comparrison to previous posts).
 * API Integration
   - we could integrate with a real social media API (like Twitters API) to fetch real data.
 * User Authentication
