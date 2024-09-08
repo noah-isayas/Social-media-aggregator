@@ -1,4 +1,4 @@
-# Social-media-aggregator
+# Social-media-aggregator (Brainstorming session)
 This project simulates a social media post aggregator. It allows users to create, retrieve, and manage social media posts.
 The simple aggregator was created in a brainstorming session for microservices. 
 
